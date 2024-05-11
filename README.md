@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaoZhuhan
-- 👀 I’m interested in data structures and algothrime.
+- 👀 I’m interested in data structures and algorithm.
 - 🌱 I’m currently learning C and c++ language.
 - 💞️ I’m looking to a pretty girl.
 - 📫 How to reach me : emial : Baobwang_cc@163.com
