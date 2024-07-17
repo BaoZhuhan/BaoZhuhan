@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BaoZhuhan, a first-year student majoring in software engineering at [Hangzhou City University](http://www.hzcu.edu.cn/)
-- 👀 I’m interested in ASC Student Supercomputer Challenge.
+- 👀 I’m working in High Performance Computing Teach competition. I am working for [HZCU HPCT Team](https://github.com/HZCU-HPTC-Team)  
 - 🌱 I have studied C and am relatively proficient in basic algorithms and data structures.
-- 💞️ love PZW forever.
-- 📫 How to reach me : emial : Baobwang_cc@163.com
+- 💞️ have a girlfriend
+- 📫 How to reach me : emial : [baozhoverseas@163.com](baozhuhanoverseas@163.com)  
 - 😄 Pronouns: He/him
 
 <!---
