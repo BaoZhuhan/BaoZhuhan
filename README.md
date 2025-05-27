@@ -10,21 +10,7 @@
 </table>
 
 
-# 👋 Hi, I'm Zhuhan
-
-🎓 Sophomore student majoring in Software Engineering at [Hangzhou City University (HZCU)](http://www.hzcu.edu.cn/)
-
-🚀 Member of the [HZCU High Performance Computing Team](http://hzcu-hpc-team.github.io/), participating in HPC competitions and training
-
-🧠 Active contributor in the AI Laboratory, engaging in research and projects
-
-💻 Proficient in C, Python, Java, and experienced with Linux
-
-📫 Contact me: hengyuhan3762@gmail.com ， [Personal Website](https://baozhuhan.github.io/p/cv/)
-
----
-
-## 🛠️ Skills
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Zhuhan+Bao)](https://git.io/typing-svg)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
@@ -35,10 +21,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ---
+🎓 Sophomore student majoring in Software Engineering at [Hangzhou City University (HZCU)](http://www.hzcu.edu.cn/)
 
+🚀 Member of the [HZCU High Performance Computing Team](http://hzcu-hpc-team.github.io/), participating in HPC competitions and training
 
+🧠 Active contributor in the AI Laboratory, engaging in research and projects
 
+💻 Proficient in C, Python, Java, and experienced with Linux
 
+📫 Contact me: hengyuhan3762@gmail.com ， [Personal Website](https://baozhuhan.github.io/p/cv/)
 
 
 <!---
