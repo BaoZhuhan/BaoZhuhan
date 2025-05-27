@@ -1,8 +1,45 @@
-- 👋 Hi, I’m @BaoZhuhan, a sophomore student majoring in software engineering at [Hangzhou City University](http://www.hzcu.edu.cn/)
-- 👀 I’m working in High Performance Computing Teach competition. I am working for [HZCU HPC Team](http://hzcu-hpc-team.github.io/)  
-- 🌱 I have studied C and am relatively proficient in basic algorithms and data structures.
-- 📫 How to reach me : emial : [hengyuhan3762@gmail.com](hengyuhan3762@gmail.com)  
-- 😄 Pronouns: He/him
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BaoZhuhan&show_icons=true&theme=radical" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoZhuhan&layout=compact&theme=radical" height="200"/>
+    </td>
+  </tr>
+</table>
+
+
+# 👋 Hi, I'm Zhuhan
+
+🎓 Sophomore student majoring in Software Engineering at [Hangzhou City University (HZCU)](http://www.hzcu.edu.cn/)
+
+🚀 Member of the [HZCU High Performance Computing Team](http://hzcu-hpc-team.github.io/), participating in HPC competitions and training
+
+🧠 Active contributor in the AI Laboratory, engaging in research and projects
+
+💻 Proficient in C, Python, Java, and experienced with Linux
+
+📫 Contact me: hengyuhan3762@gmail.com ， [Personal Website](https://baozhuhan.github.io/p/cv/)
+
+---
+
+## 🛠️ Skills
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+---
+
+
+
+
+
 
 <!---
 BaoZhuhan/BaoZhuhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
