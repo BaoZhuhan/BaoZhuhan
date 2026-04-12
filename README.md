@@ -1,38 +1,70 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=BaoZhuhan&show_icons=true&theme=radical" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoZhuhan&layout=compact&theme=radical" height="200"/>
-    </td>
-  </tr>
-</table>
+# 👋 Hi, I'm Zhuhan Bao
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+in+Healthcare;HPC+Background;LLM+Agents" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Zhuhan+Bao)](https://git.io/typing-svg)
+<br/>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+<div align="center">
+  <span style="font-size:16px;">
+    🎯 AI in doctor–patient interaction &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ HPC background
+  </span>
+</div>
 
----
-🎓 Sophomore student majoring in Software Engineering at [Hangzhou City University (HZCU)](http://www.hzcu.edu.cn/)
+<br/>
 
-🚀 Member of the [HZCU High Performance Computing Team](http://hzcu-hpc-team.github.io/), participating in HPC competitions and training
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaoZhuhan&theme=tokyonight&hide_border=true" height="140"/>
+      </td>
+      <td align="center">
+        <div>
+          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+        </div>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </div>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+          <img src="https://img.shields.io/badge/MPI-FF6F00?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/OpenMP-0096D6?style=for-the-badge" />
+        </div>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/Slurm-000000?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Parallel%20Computing-8A2BE2?style=for-the-badge" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-🧠 Active contributor in the AI Laboratory, engaging in research and projects
+<br/>
 
-💻 Proficient in C, Python, Java, and experienced with Linux
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20in%20Healthcare-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agent%20Simulation-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/HPC%20Optimization-FF4500?style=flat-square" />
+</div>
 
-📫 Contact me: hengyuhan3762@gmail.com ， [Personal Website](https://baozhuhan.github.io/p/cv/)
+<br/>
 
+<div align="center">
+  <a href="mailto:hengyuhan3762@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://baozhuhan.github.io/p/cv/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
+</div>
 
-<!---
-BaoZhuhan/BaoZhuhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- fixed logos + consistent rendering -->
